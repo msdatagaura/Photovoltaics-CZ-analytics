@@ -3,6 +3,8 @@ Dashboard o vývoji fotovoaltiky v ČR v Power BI. Dáta boli získané z verejn
 
 This dashboard regarding photovoltaics in the Czech Republic was created using Power BI. The data comes from public sources that collect information on installations in the Czech Republic.The data was first compiled in Excel and subsequently processed in Power BI.
 
+Screenshots 
+
 ![Ukážka dashboardu](FVE-cr.png)
 
 ![Ukážka dashboardu](FVE-CR-2.png)
