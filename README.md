@@ -89,17 +89,3 @@ Dashboard Objectives:
 
 ## 6. Screenshots 
 
-![Ukážka dashboardu](FVE-cr.png)
-
-![Ukážka dashboardu](FVE-CR-2.png)
-
-![Ukážka dashboardu](FVE-CR-3.png)
-
-
-![Ukážka dashboardu](FVE-CR-5.png)
-
-![Ukážka dashboardu](FVE-CR-6.png)
-
-![Ukážka dashboardu](FVE-CR-7.png)
-
-![Ukážka dashboardu](FVE-CR-8.png)
