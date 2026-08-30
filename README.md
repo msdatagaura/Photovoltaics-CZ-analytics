@@ -75,6 +75,10 @@ Cieľom dashboardu:
 4. Vizualizovať jednotlivé kraje a počty inštalácií v rámci ČR.
 5. Poskytnúť informácie o typickom zákazníkovi FVE.
 
+Kľúčové vizualizácie:
+1. KPI cards: počet krajov, spolu inštalovaných kusov, priemer ks na kraj, cena FVE pre rodinný dom, priemerná návratnosť
+2. Filtre: kraje, rodinné domy
+3. Metriky: priemer, spolu kusov, celkové hodnotenie
 Problem Definition:
 
 Data regarding FVE systems is scattered across multiple sources, making it difficult to quickly identify issues. The lack of tabular data organization resulted in prolonged data processing times.
@@ -87,6 +91,12 @@ Dashboard Objectives:
 4. Visualize the distribution of installations across the regions of the Czech Republic.
 5. Provide information on the typical FVE system customer.
 
+Key visualizations:
+1. KPI cards: number of regions, total units installed, average units per region, cost of a residential PV system, average payback period
+2. Filters: regions, family homes
+3. Metrics: average, total units, overall rating
+Problem Definition:
+
 ## 6. Screenshots 
 
 ![Ukážka dashboardu](FVE-cr.png)
@@ -94,3 +104,11 @@ Dashboard Objectives:
 ![Ukážka dashboardu](FVE-CR-2.png)
 
 ![Ukážka dashboardu](FVE-CR-3.png)
+
+![Ukážka dashboardu](FVE-CR-5.png)
+
+![Ukážka dashboardu](FVE-CR-6.png)
+
+![Ukážka dashboardu](FVE-CR-7.png)
+
+![Ukážka dashboardu](FVE-CR-8.png)
