@@ -14,7 +14,6 @@ This dashboard regarding photovoltaics in the Czech Republic was created using P
 
 ![Ukážka dashboardu](FVE-CR-2.png)
 
-![Ukážka dashboardu](FVE-CR-3.png)
 
 ![Ukážka dashboardu](FVE-CR-3.png)
 
