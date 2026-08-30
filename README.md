@@ -20,11 +20,11 @@ Na základe verejne dostupných zdrojov bolo treba pripraviť analýzu zameranú
 
 Dashboard bol vytvorený pomocou nasledujúcich nástrojov:
 
--📊 Power BI Desktop – Tvorba a vizualizácia dashboardov
--📂 Power Query – Transformácia dát v Power BI
--🧠 DAX - tvorba metrík na vypočítanie priemerov
--📂 Excel - tvorba tabuliek
--📁 File Format – .pbix (Power BI), .png (obrázky dashboardov).
+📊 Power BI Desktop – Tvorba a vizualizácia dashboardov
+📂 Power Query – Transformácia dát v Power BI
+🧠 DAX - tvorba metrík na vypočítanie priemerov
+📂 Excel - tvorba tabuliek
+📁 File Format – .pbix (Power BI), .png (obrázky dashboardov).
 
 ## 4. Data Source
 
@@ -44,11 +44,11 @@ Vymedzenie problému:
 
 Cieľom dashboardu:
 
-  Poskytnúť marketingovému oddeleniu cenné informácie, ktoré by vedeli aplikovať v ďalšom procese rozhodovania. 
-Porovnať priemerné náklady na FVE aby si zákazník vedel spraviť predstavu v rámci ekonomického hľadiska.
-Porovnať jednotlivé roky v rámci trendov, aby sa poukázalo na inovácie vo vývoji FVE.
-Vizualizovať jednotlivé kraje a počty inštalácií v rámci ČR.
-Poskytnúť informácie o typickom zákazníkovi FVE.
+1. Poskytnúť marketingovému oddeleniu cenné informácie, ktoré by vedeli aplikovať v ďalšom procese rozhodovania. 
+2. Porovnať priemerné náklady na FVE aby si zákazník vedel spraviť predstavu v rámci ekonomického hľadiska.
+3. Porovnať jednotlivé roky v rámci trendov, aby sa poukázalo na inovácie vo vývoji FVE.
+4. Vizualizovať jednotlivé kraje a počty inštalácií v rámci ČR.
+5. Poskytnúť informácie o typickom zákazníkovi FVE.
 
 
 ## 6. Screenshots 
