@@ -4,10 +4,40 @@ Dashboard o vývoji fotovoaltiky v ČR v Power BI. Dáta boli získané z verejn
 This dashboard regarding photovoltaics in the Czech Republic was created using Power BI. The data comes from public sources that collect information on installations in the Czech Republic.The data was first compiled in Excel and subsequently processed in Power BI.
 
 ## 1. Project Title / Headline
+
+Jednalo sa o projekt domáce fotovoltaické elektrárne v Českej republike. V rámci projektu bolo hlavnou úlohou pripraviť podklady pre marketingové oddelenie, ktoré zvažuje rozvoj aktivít v oblasti domácich fotovoltaických elektrárien. 
+
 ## 2. Short Description / Purpose
+
+Na základe verejne dostupných zdrojov bolo treba pripraviť analýzu zameranú na jednotlivé oblasti:
+1. Kto je typický zákazník, ktorý si plánuje inštaláciu FVE.
+2. Aká je súčasná veľkosť penetrácie trhu v ČR.
+3. Aké sú hlavné motivácie a bariéry pre inštaláciu FVE.
+4. Aké trendy v tejto oblasti môžeme očakávať.
+5. Aké faktory ovplyvňujú rozhodovanie zákazníka.
+
 ## 3. Tech Stack
+
+Dashboard bol vytvorený pomocou nasledujúcich nástrojov:
+
+📊 Power BI Desktop – Tvorba a vizualizácia dashboardov
+📂 Power Query – Transformácia dát v Power BI
+🧠 DAX - tvorba metrík na vypočítanie priemerov
+📁 File Format – .pbix (Power BI), .png (obrázky dashboardov).
+
 ## 4. Data Source
+
+Dáta boli zbierané z verejne dostupných zdrojov, ktoré uverejňovali ročné štatistiky inštalácií FVE a z výskumých štúdií.
+
+Dáta obsahovali:
+- geografické informácie
+- základné informácie o zákazníkoch (vek, pohlavie, mzda, vzdelanie)
+- trendy v roku 2025 a 2026
+- motivácie zákazníkov
+
 ## 5. Features / Highlights
+
+
 ## 6. Screenshots 
 
 ![Ukážka dashboardu](FVE-cr.png)
@@ -15,6 +45,8 @@ This dashboard regarding photovoltaics in the Czech Republic was created using P
 ![Ukážka dashboardu](FVE-CR-2.png)
 
 ![Ukážka dashboardu](FVE-CR-3.png)
+
+![Ukážka dashboardu](FVE-CR-4.png)
 
 ![Ukážka dashboardu](FVE-CR-5.png)
 
