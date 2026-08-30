@@ -105,6 +105,8 @@ Problem Definition:
 
 ![Ukážka dashboardu](FVE-CR-3.png)
 
+![Ukážka dashboardu](FVE-CR-4.png)
+
 ![Ukážka dashboardu](FVE-CR-5.png)
 
 ![Ukážka dashboardu](FVE-CR-6.png)
